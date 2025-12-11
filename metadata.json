@@ -1,0 +1,5 @@
+{
+  "name": "SkillReels AI",
+  "description": "An Instagram Reels-style learning application that converts topics into bite-sized audio-visual learning cards using Gemini AI.",
+  "requestFramePermissions": []
+}
